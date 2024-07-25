@@ -2,7 +2,8 @@
 name = "contacts"
 version = "0.1.0"
 description = ""
-authors = ["Yuliia Chorna <140984907+YuliiaChorna1@users.noreply.github.com>"]
+package-mode = false
+authors = ["demagoit <33demagoit@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
